@@ -1,0 +1,16 @@
+{
+    "name": "shubham/api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Shubham\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shubham Mishra",
+            "email": "shubham@fininfocom.com"
+        }
+    ],
+    "require": {}
+}
