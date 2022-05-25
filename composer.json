@@ -12,5 +12,7 @@
             "email": "shubham@fininfocom.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "kint-php/kint": "^4.1"
+    }
 }
